@@ -3,3 +3,8 @@
 </h1>
 <h3 align="center">A passionate Cybersecurity student from India! </h3>  
 <br>
+<div align="center">
+    
+ 🌱 I’m currently learning **Pen Testing, Solidity **
+ 
+ </div>
