@@ -6,5 +6,6 @@
 <div align="center">
     
  🌱 I’m currently learning **Pen Testing, Solidity**
+ 💪 Connect me for free **Diet plans, Workout routines...**
  
  </div>
