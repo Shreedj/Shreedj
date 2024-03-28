@@ -5,6 +5,6 @@
 <br>
 <div align="center">
     
- 🌱 I’m currently learning ** Pen Testing, Solidity **
+ 🌱 I’m currently learning **Pen Testing, Solidity**
  
  </div>
