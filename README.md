@@ -5,7 +5,7 @@
 <br>
 <div align="center">
     
- 🌱 I’m currently learning **Pen Testing, Blockchain !**  
+ 🌱 I’m currently learning **Pen Testing and Blue Teaming !**  
  💪 Connect me for free **Diet plans, Workout routines...**
  
  </div>
